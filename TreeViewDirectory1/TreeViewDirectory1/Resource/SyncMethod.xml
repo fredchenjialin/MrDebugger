@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MethodList>
+  <Method Id="0" MethodName="Sync"/>
+  <Method Id="1" MethodName="Echo"/>
+  <Method Id="2" MethodName="Combine"/>
+</MethodList>
+
