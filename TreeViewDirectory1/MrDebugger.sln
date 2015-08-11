@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDirectory1", "TreeViewDirectory1\TreeViewDirectory1.csproj", "{C9511C52-B520-4818-A99F-D4A41769A93F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrDebugger", "TreeViewDirectory1\MrDebugger.csproj", "{C9511C52-B520-4818-A99F-D4A41769A93F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
