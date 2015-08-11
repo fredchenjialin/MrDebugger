@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     public class HelpSyncDirectoryHistory
     {

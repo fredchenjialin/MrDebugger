@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     class Execute
     {

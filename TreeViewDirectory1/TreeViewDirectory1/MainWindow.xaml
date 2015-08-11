@@ -1,8 +1,8 @@
-﻿<Window x:Class="TreeViewDirectory1.MainWindow"
+﻿<Window x:Class="MrDebugger.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:fileio="clr-namespace:TreeViewDirectory1"
-        xmlns:loc="clr-namespace:TreeViewDirectory1"
+        xmlns:fileio="clr-namespace:MrDebugger"
+        xmlns:loc="clr-namespace:MrDebugger"
         Title="Mr.Debugger" Height="650" Width="1200" Loaded="Window_Loaded" Closed="Window_Closed"  Background="#FFB4E3E8">
     <Grid>
         <Grid.RowDefinitions>

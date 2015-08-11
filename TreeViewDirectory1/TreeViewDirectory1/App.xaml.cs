@@ -1,7 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     /// <summary>
     /// App.xaml 的交互逻辑

@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     public class UserLog
     {

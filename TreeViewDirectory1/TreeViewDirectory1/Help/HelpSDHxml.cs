@@ -3,7 +3,7 @@ using System.Collections;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     [XmlRoot("Pair")]
     public class HelpSDHxml

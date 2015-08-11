@@ -1,4 +1,4 @@
-﻿namespace TreeViewDirectory1
+﻿namespace MrDebugger
 {
     class AnalyzerFactory
     {

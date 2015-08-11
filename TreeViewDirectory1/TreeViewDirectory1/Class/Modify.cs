@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     /// <summary>
     /// 用于记录将要处理的文件集合

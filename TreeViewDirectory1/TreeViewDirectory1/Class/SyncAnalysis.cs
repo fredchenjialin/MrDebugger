@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Windows;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     class SyncAnalysis : IAnalysis
     {

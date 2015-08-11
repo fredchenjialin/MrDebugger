@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     internal class EchoAnalysis : IAnalysis
     {

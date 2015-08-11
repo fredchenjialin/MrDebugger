@@ -1,4 +1,4 @@
-﻿namespace TreeViewDirectory1
+﻿namespace MrDebugger
 {
     /// <summary>
     /// 帮助同步方式的配置文件类

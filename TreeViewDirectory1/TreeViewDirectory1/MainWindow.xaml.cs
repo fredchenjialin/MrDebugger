@@ -15,7 +15,7 @@ using System.Windows.Controls;
 using System.Xml.Linq;
 using Microsoft.Win32;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     /// <summary>
     ///     MainWindow.xaml 的交互逻辑

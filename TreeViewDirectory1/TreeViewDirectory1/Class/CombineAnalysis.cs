@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace TreeViewDirectory1
+namespace MrDebugger
 {
     /// <summary>
     /// 这个类的重点在于复制一些新的文件去目标文件夹，但是需要找到可以直接剪切的可以省下复制的时间
