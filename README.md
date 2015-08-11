@@ -1,6 +1,5 @@
 # MrDebugger
 
-@(software)[wpf|c#|Sync]
 
 **MrDebugger**是一个文件夹同步软件，提供图形界面使得同步操作更易完成。特点概述：
  
@@ -8,8 +7,6 @@
 - **三种同步方式** ：Sync，Echo，Combine；
 
 -------------------
-
-[TOC]
 
 ## 如何使用
 
