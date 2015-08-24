@@ -16,4 +16,4 @@
 ### 使用方式
 
 ## 反馈与建议
-- 微博：[@Multipluso](http://weibo.com/fredchenjialin "开发者个人账号")
+- 微博：[@Multipluso](http://weibo.com/fredchenjialin "multipluso")
